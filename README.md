@@ -24,6 +24,13 @@ Prev: ML Lead at [Staple AI](https://staple.io)<br>
 - 💅 Currently Reading : [The Creative Act: A Way of Being](https://www.goodreads.com/en/book/show/60965426)
 - 💬 `ping` me about **python**, **system-design**, **solution-architecture**, **LLMs**, **NLP**
 
+#### Outside of work
+- 🌎 I'm a digital nomad, so you'll find me traveling across the world.
+- 🏋️ When I'm not programming, I love to run or get a workout in
+- 🏎️ I'm an F1 Geek (Go RBR!) & a huge Sebastian Vettel and Max Verstappen Fan
+
+#### Current Location : Bangalore, 🇮🇳
+
 <!--
 **Killthebug/Killthebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
