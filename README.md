@@ -30,7 +30,7 @@ Prev: ML Lead at [Staple AI](https://staple.io)<br>
 - 🏎️ I'm an F1 Geek (Go RBR!) & a huge Sebastian Vettel and Max Verstappen Fan
 
 #### Current Location : Da Nang, 🇻🇳
-## Prev - Bangalore, 🇮🇳
+Prev - Bangalore, 🇮🇳
 
 <!--
 **Killthebug/Killthebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
